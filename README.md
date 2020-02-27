@@ -6,7 +6,7 @@ Click [here](https://unicode.website/) for a live demo of Unicode Unicorn.
 
 `data` contains various data files that are used during compilation. See below for sources and how to update them.
 
-Run `./build.sh` to build the project.
+Run `yarn build` to build the project.
 
 ### Sources (obsolete)
 

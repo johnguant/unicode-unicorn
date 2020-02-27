@@ -1,6 +1,7 @@
 node_modules/
 cloudflare/upload.sh
 build/
+.pnp.js
 
 #---------- OS X gitignore ----------
 

@@ -10,7 +10,7 @@ mkdir -p build
 node compile-unicode-data.js
 
 # this depends on compile-unicode-data
-./node_modules/.bin/tsc
+tsc
 
 # also depends only on compile-unicode-data
 cargo fmt --manifest-path wasm/Cargo.toml
